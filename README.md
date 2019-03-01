@@ -9,7 +9,7 @@ Twitter: @TaneoKoyama<br>
 <br>
 I'm TANEO.<br>
 I'm a student of Keio Univ.<br>
-My field of expertise is Comparative genomics and phylogenetics<br>
+My field of expertise is Comparative genomics and phylogenetics.<br>
 Now I'm interested in Eukaryogenesis, NeoVirology, Machine-Learning, Complex System.<br>
 I'm living at Tokyo's somewhere.<br>
 Programing Language: Python, R, JS, SQL. I'm studying c++ and julia.<br>
