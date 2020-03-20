@@ -1,16 +1,9 @@
 # About me
-名前: TANEO<br>
-所属: 慶應義塾大学環境情報学部，冨田研究会，いわゆるSFC<br>
-専門: 比較ゲノム解析・系統解析<br>
-興味分野: アーキアを中心とする真核生物の起源から新ウイルス学，機械学習や複雑系などまで幅広く(浅く)やってます．<br>
-居住地: 東京のどこか，来年は鶴岡<br>
-使用言語: Python，R，Bash，JS，SQL．c++とjuliaは勉強中<br>
+名前: TANEO 改め 武山尚生 (たけやまなおた)です．<br>
+所属: 慶應義塾大学環境情報学部，村井研SL<br>
+専門: スパースモデリング，比較ゲノム解析<br>
+興味分野: 最近は多変量スパース推定やグラフィカルモデルを中心に色々プログラム書いてます． 進化生物学が好き．<br>
+居住地: 世田谷のどこか<br>
+使用言語: Pythonが得意, BashやR,JS,C,SQLも一応出来る．あとStanとか．<br>
 Twitter: @TaneoKoyama<br>
 <br>
-I'm TANEO.<br>
-I'm a student of Keio Univ.<br>
-My field of expertise is Comparative genomics and phylogenetics.<br>
-Now I'm interested in Eukaryogenesis, NeoVirology, Machine-Learning, Complex System.<br>
-I'm living at Tokyo's somewhere.<br>
-Programing Language: Python, R, Bash, JS, SQL. I'm studying c++ and julia.<br>
-Twitter: @TaneoKoyama<br>
