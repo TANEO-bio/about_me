@@ -4,6 +4,7 @@
 専門: スパースモデリング，比較ゲノム解析<br>
 興味分野: 最近は多変量スパース推定やグラフィカルモデルを中心に色々プログラム書いてます． 進化生物学が好き．<br>
 居住地: 世田谷のどこか<br>
-使用言語: Pythonが得意, BashやR,JS,C,SQLも一応出来る．あとStanとか．<br>
+使用言語: Pythonが得意, BashやR,JavaScriptS,C,SQLも一応出来る．あとStanとか．<br>
+労働経験: 大手金融・FXでクオンツのインターン経験あり．
 Twitter: @TaneoKoyama<br>
 <br>
