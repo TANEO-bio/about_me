@@ -7,7 +7,7 @@
 興味分野:<br>
 最近は多変量スパース推定やグラフィカルモデルを中心に新手法の開発を狙ってます． <br>Bioinformatics(主に分子進化や原始生命)が好き．<br><br>
 
-使用言語: Pythonが得意, Bash, R, JavaScript, C, SQLも一応出来る．あとStanとか．<br>
+使用言語: Pythonが得意, Bash, R, JavaScript, C, SQLも一応出来る．<br>
 労働経験: 大手金融・FXでクオンツのインターン経験あり．<br><br>
 論文: <br>
 "Complete Genome Sequence of Halomonas hydrothermalis Strain Slthf2, Halophilic Bacterium Isolated from Deep-Sea Hydrothermal-Vent Environments"<br>
