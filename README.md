@@ -15,6 +15,6 @@ Bioinformatics(主に分子進化や微生物学、代謝工学、生物統計)�
 "Complete Genome Sequence of Halomonas hydrothermalis Strain Slthf2, Halophilic Bacterium Isolated from Deep-Sea Hydrothermal-Vent Environments" https://doi.org/10.1128/MRA.00294-20 <br>
 "真核生物の起源における原核生物の重要性と当時の地球環境" (地学雑誌、unpublished, review)<br><br>
 学会発表:<br>
-2019年度日本分子生物学会，「アーキアにおけるコア遺伝⼦セットの同定と性状解析」<br><br>
+2019年度日本分子生物学会，「アーキアにおけるコア遺伝⼦セットの同定と性状解析」 https://github.com/TANEO-bio/archaeal_core<br><br>
 Twitter: @TaneoKoyama<br>
 <br>
