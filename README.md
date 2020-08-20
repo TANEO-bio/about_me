@@ -11,7 +11,7 @@ Bioinformatics(主に分子進化や微生物学、代謝工学、生物統計)�
 
 使用言語: Pythonが得意, Bash, R, JavaScript, SQL, Cも一応出来る．<br>
 労働経験: ITベンチャー、大手金融・FXでインターン経験あり．<br>
-インターン: IBM, Yahooにて機械学習を用いた分析業務の経験あり。<br><br>
+インターン: IBM, Yahooにて機械学習を用いた分析業務の経験あり．<br><br>
 論文: <br>
 "Complete Genome Sequence of Halomonas hydrothermalis Strain Slthf2, Halophilic Bacterium Isolated from Deep-Sea Hydrothermal-Vent Environments" https://doi.org/10.1128/MRA.00294-20 <br>
 "真核生物の起源における原核生物の重要性と当時の地球環境" (地学雑誌、unpublished, review)<br><br>
