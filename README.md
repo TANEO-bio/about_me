@@ -9,7 +9,7 @@
 Bioinformatics(主に分子進化や微生物学，生物統計)が好き．<br>
 今はガウス過程・信号処理を中心に勉強中．<br><br>
 
-使用言語: Pythonが得意, Bash, R, JavaScript, SQL, Goも一応出来る．<br>
+使用言語: Pythonが得意, Golang, Bash, R, JavaScript, SQLも一応出来る．<br>
 労働経験: YJFX 2020/03/01~2020/03/31、IntegriCulture 2020/10/05〜<br>
 インターン: IBM 2020/8/17〜27、Yahoo 2020/9/11〜30．<br><br>
 論文: <br>
