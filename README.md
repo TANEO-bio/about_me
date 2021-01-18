@@ -14,7 +14,7 @@ Bioinformatics(主に分子進化や微生物学，生物統計)が好き．<br>
 インターン: IBM 2020/8/17〜27、Yahoo 2020/9/11〜30．<br><br>
 論文: <br>
 "Complete Genome Sequence of Halomonas hydrothermalis Strain Slthf2, Halophilic Bacterium Isolated from Deep-Sea Hydrothermal-Vent Environments" https://doi.org/10.1128/MRA.00294-20 <br>
-武山尚生・高橋佑歌・永田祥平・澤木佑介・佐藤友彦・丸山茂徳・金井昭夫 "真核生物の起源における原核生物の重要性と当時の地球環境" Journal of Geography (Chigaku Zasshi), http://journal.geog.or.jp/images/abstracts/129-6_takeyama.pdf<br><br>
+武山尚生・高橋佑歌・永田祥平・澤木佑介・佐藤友彦・丸山茂徳・金井昭夫 "真核生物の起源における原核生物の重要性と当時の地球環境" Journal of Geography (Chigaku Zasshi), https://www.jstage.jst.go.jp/article/jgeography/129/6/129_129.899/_article/-char/ja/<br><br>
 学会発表:<br>
 2019年度日本分子生物学会，「アーキアにおけるコア遺伝⼦セットの同定と性状解析」 <br>https://github.com/TANEO-bio/archaeal_core<br><br>
 Twitter: [@TANEO_koshiki](https://twitter.com/TANEO_koshiki)<br>
