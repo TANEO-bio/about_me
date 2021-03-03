@@ -16,7 +16,7 @@ Bioinformatics(主に分子進化や微生物学，生物統計)が好き．<br>
 
 インターン:
 1. IBM 2020/8/17〜27
-2. Yahoo 2020/9/11〜30．
+2. Yahoo(広告部門) 2020/9/11〜30．
 
 論文:
 1. Takeyama N, Huang M, Sato K, Galipon J, Arakawa K. 2020. Complete genome sequence of Halomonas hydrothermalis strain Slthf2, a halophilic bacterium isolated from a deep-sea hydrothermal-vent environment. Microbiol Resour Announc 9:e00294-20. https://doi.org/10.1128/MRA.00294-20. <br>
