@@ -11,7 +11,7 @@ Bioinformatics(主に分子進化や微生物学，生物統計)が好き．<br>
 
 使用言語: Pythonが得意, Golang, R, Matlab, Bash, JavaScript, SQLなど<br><br>
 労働経験: 
-1. Yahoo(FX部門) 2020/03/01~2020/03/31
+1. YJFX 2020/03/01〜2020/03/31
 2. IntegriCulture 2020/10/05〜
 
 インターン:
