@@ -17,6 +17,6 @@ Bioinformatics(主に分子進化や微生物学，生物統計)が好き．<br>
 武山尚生・高橋佑歌・永田祥平・澤木佑介・佐藤友彦・丸山茂徳・金井昭夫 "真核生物の起源における原核生物の重要性と当時の地球環境" Journal of Geography (Chigaku Zasshi), https://www.jstage.jst.go.jp/article/jgeography/129/6/129_129.899/_article/-char/ja/<br><br>
 学会発表:<br>
 2019年度日本分子生物学会，「アーキアにおけるコア遺伝⼦セットの同定と性状解析」 <br>https://github.com/TANEO-bio/archaeal_core<br>
-2020年度電子情報通信学会,SeMI研,「スパースモデリングによる無線チャネル同定」<br><br>
+2020年度電子情報通信学会,SeMI研,「スパースモデリングによる無線チャネル同定」<br>https://github.com/TANEO-bio/Sparse_System_Identification/blob/main/slide.pdf<br>
 Twitter: [@TANEO_koshiki](https://twitter.com/TANEO_koshiki)<br>
 <br>
